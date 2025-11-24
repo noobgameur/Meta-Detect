@@ -1,0 +1,12 @@
+flask
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+networkx
+torch
+transformers
+plotly
+werkzeug
